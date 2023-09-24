@@ -1,0 +1,327 @@
+# depslib dependency file v1.0
+1491537213 source:c:\users\asus\desktop\earthbornintegration\animation.c
+	"animation.h"
+
+1491535918 c:\users\asus\desktop\earthbornintegration\animation.h
+	"structs.h"
+
+1491539149 c:\users\asus\desktop\earthbornintegration\structs.h
+	"defs.h"
+
+1491547171 c:\users\asus\desktop\earthbornintegration\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325788834 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1491536710 source:c:\users\asus\desktop\earthbornintegration\draw.c
+	"draw.h"
+
+1491536074 c:\users\asus\desktop\earthbornintegration\draw.h
+	"structs.h"
+
+1491532751 source:c:\users\asus\desktop\earthbornintegration\init.c
+	"init.h"
+
+1491406763 c:\users\asus\desktop\earthbornintegration\init.h
+	"structs.h"
+
+1491560363 source:c:\users\asus\desktop\earthbornintegration\input.c
+	"input.h"
+
+1313172962 c:\users\asus\desktop\earthbornintegration\input.h
+	"structs.h"
+
+1491533415 source:c:\users\asus\desktop\earthbornintegration\main.c
+	"main.h"
+
+1491536266 c:\users\asus\desktop\earthbornintegration\main.h
+	"structs.h"
+
+1491560351 source:c:\users\asus\desktop\earthbornintegration\mapc.c
+	"map.h"
+
+1490714121 c:\users\asus\desktop\earthbornintegration\map.h
+	"structs.h"
+
+1491547075 source:c:\users\asus\desktop\earthbornintegration\obstacles.c
+	"obstacles.h"
+
+1491521860 c:\users\asus\desktop\earthbornintegration\obstacles.h
+	"structs.h"
+
+1491533426 source:c:\users\asus\desktop\earthbornintegration\player.c
+	"player.h"
+
+1491533448 c:\users\asus\desktop\earthbornintegration\player.h
+	"structs.h"
+
+1491543535 source:c:\users\asus\desktop\earthbornintegration\vie.c
+	"vie.h"
+
+1491531491 c:\users\asus\desktop\earthbornintegration\vie.h
+	"structs.h"
+
+1493953444 source:c:\users\asus\desktop\golden_ass\main.c
+	"main.h"
+
+1493953444 c:\users\asus\desktop\golden_ass\main.h
+	"structs.h"
+
+1493953446 c:\users\asus\desktop\golden_ass\structs.h
+	"defs.h"
+
+1493957719 c:\users\asus\desktop\golden_ass\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1493953444 source:c:\users\asus\desktop\golden_ass\animation.c
+	"animation.h"
+
+1493953444 c:\users\asus\desktop\golden_ass\animation.h
+	"structs.h"
+
+1493953444 source:c:\users\asus\desktop\golden_ass\draw.c
+	"draw.h"
+
+1493953444 c:\users\asus\desktop\golden_ass\draw.h
+	"structs.h"
+
+1493957930 source:c:\users\asus\desktop\golden_ass\init.c
+	"init.h"
+
+1493953444 c:\users\asus\desktop\golden_ass\init.h
+	"structs.h"
+
+1493953444 source:c:\users\asus\desktop\golden_ass\input.c
+	"input.h"
+
+1493953444 c:\users\asus\desktop\golden_ass\input.h
+	"structs.h"
+
+1493953444 source:c:\users\asus\desktop\golden_ass\mapc.c
+	"map.h"
+
+1493953444 c:\users\asus\desktop\golden_ass\map.h
+	"structs.h"
+
+1493953444 source:c:\users\asus\desktop\golden_ass\obstacles.c
+	"obstacles.h"
+
+1493953444 c:\users\asus\desktop\golden_ass\obstacles.h
+	"structs.h"
+
+1493958038 source:c:\users\asus\desktop\golden_ass\player.c
+	"player.h"
+
+1493953444 c:\users\asus\desktop\golden_ass\player.h
+	"structs.h"
+
+1493953446 source:c:\users\asus\desktop\golden_ass\vie.c
+	"vie.h"
+
+1493953446 c:\users\asus\desktop\golden_ass\vie.h
+	"structs.h"
+
